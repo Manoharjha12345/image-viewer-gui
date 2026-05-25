@@ -16,4 +16,4 @@ A simple Python GUI wallpaper viewer using Tkinter and Pillow.
 
 ```bash
 pip install pillow
-python main.py
+wallpaper_viwer.py
